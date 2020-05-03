@@ -1,1 +1,1 @@
-content hidden
+pages hidden
